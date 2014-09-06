@@ -1,0 +1,24 @@
+name: check_gtp_v2
+description: "file:///README.md"
+url: "https://www.netways.org/projects/plugins"
+tags: ~
+vendor: NETWAYS
+target: Hardware
+type: Plugin
+license: gplv2
+releases: 
+  - 
+    name: 1.0
+    description: "1.0 Release"
+    files: 
+      - 
+        name: check_gtp_v2.pl
+        url: "file:///check_gtp_v2.pl"
+        description: none
+        checksum: 5b43432cce68dc587bfd2407b9c2bfeb
+      - 
+        name: multiplexer.pl
+        url: "file:///multiplexer.pl"
+        description: none
+        checksum: a258caf93ab44c060dbd16b4c92fa6d7
+
